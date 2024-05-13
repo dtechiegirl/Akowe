@@ -8,3 +8,9 @@ HOW TO USE:
 
 
 Clone the repo, get dependencies and there you go!
+
+
+INSTALL WITH THUS LINK
+
+
+https://drive.google.com/file/d/12m9uweqilgUln6jHFLkfpBl9UDrGlyLH/view?usp=drivesdk
